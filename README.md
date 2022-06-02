@@ -29,7 +29,7 @@ In order to succeed, We must first believe that we can. by Nikos Kazantzakis
 ### Features
 - 소셜 로그인
     - [KakaoAPI](https://developers.kakao.com/)를 활용하여 소셜 로그인 기능 구현.
-    - FE 에서 Kakao accesstoken을 서버에 전달하고, JWT를 활용하여 새로운 access token 발행.
+    - FE 에서 Kakao access token을 서버에 전달하고, JWT를 활용하여 새로운 내부 access token 발행.
 - 강의 조회
     - Query Parameter를 활용하여 다중필터 기능 구현.
     - 또한, Q객체에서 더 나아가, 다중필터를 Key-Value형태로 정의하고, 추가적인 필터 Index가 필요할 경우 확장이 가능하도록 구현.
@@ -42,10 +42,10 @@ In order to succeed, We must first believe that we can. by Nikos Kazantzakis
     - Django ORM으로 DB에 접근할 때, caching이 가능하도록 코드 작성.
     - 실제, 240번 Query 횟수를 4번으로 줄임으로써, 효율적인 서버 구축.
 - 테스트 코드
-    - Unittest를 진행함으로써, 시스템 안정성 확보.
+    - Unittest 진행, 시스템 안정성 확보.
     - 또한, 외부 API (Kakao API, AWS S3)에 대해서 Mock Response로 전달하여, 테스트 진행.
     - Unittest 통과 이후, Postman으로 통합테스트 진행.
-    - 테스트 코드에 대한 문서화 (with Postman API Documentation)
+    - API 명세 작성 (with Postman API Documentation)
 
 
 ## Notion
