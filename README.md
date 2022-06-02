@@ -48,10 +48,6 @@ In order to succeed, We must first believe that we can. by Nikos Kazantzakis
     - 테스트 코드에 대한 문서화 (with Postman API Documentation)
 
 
-## 기억에 남는 코드
-<img width="1243" alt="스크린샷 2022-04-24 오후 2 45 24" src="https://user-images.githubusercontent.com/91510831/164958424-c05139ca-2a86-458a-89a9-441a15e7c1a9.png">
-<img width="1254" alt="스크린샷 2022-04-24 오후 2 45 07" src="https://user-images.githubusercontent.com/91510831/164958416-2fbd87fe-d923-4b78-91ae-f37095749e64.png">
-
 ## Notion
 [1] Notion : https://quirky-eocursor-b74.notion.site/bbooing-Standing-Meeting-bed5f8dfe56f42dca04c6e92b4a97b59 <br>
 [2] PostMan: https://documenter.getpostman.com/view/20018497/Uyr8ndsz
