@@ -53,6 +53,6 @@ In order to succeed, We must first believe that we can. by Nikos Kazantzakis
 [2] PostMan: https://documenter.getpostman.com/view/20018497/Uyr8ndsz
 
 ## Reference
-- 해당 프로젝트는 [탈잉사이트](https://taling.me/?utm_source=google&utm_medium=cpc&utm_campaign=p2p&utm_content=pc_%EB%B8%8C%EB%9E%9C%EB%93%9C_00.%EC%9D%BC%EB%B0%98&utm_term=%ED%83%88%EC%9E%89&gclid=CjwKCAjwx46TBhBhEiwArA_DjNhbnjzjYyzERizl8zjsFwD3I8asbAkPDnjRL7h-Et2Axx62f2NFHRoCGo0QAvD_BwE)를 참조하여 학습목적으로 제작되었습니다
-- 해당 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다
+- 해당 프로젝트는 [탈잉사이트](https://taling.me/?utm_source=google&utm_medium=cpc&utm_campaign=p2p&utm_content=pc_%EB%B8%8C%EB%9E%9C%EB%93%9C_00.%EC%9D%BC%EB%B0%98&utm_term=%ED%83%88%EC%9E%89&gclid=CjwKCAjwx46TBhBhEiwArA_DjNhbnjzjYyzERizl8zjsFwD3I8asbAkPDnjRL7h-Et2Axx62f2NFHRoCGo0QAvD_BwE)를 참조하여 학습목적으로 제작되었습니다.
+- 해당 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
 - 해당 프로젝트에서 사용하고 있는 이미지는 위코드에서 구매한 것으로, 외부인이 사용할 수 없습니다.
